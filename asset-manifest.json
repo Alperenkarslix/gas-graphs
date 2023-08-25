@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/gas-graphs/static/css/main.145cb27b.css",
+    "main.js": "/gas-graphs/static/js/main.0b9fdd51.js",
+    "static/media/map_image.png": "/gas-graphs/static/media/map_image.8eedbc0ff16ddc6771ad.png",
+    "index.html": "/gas-graphs/index.html",
+    "main.145cb27b.css.map": "/gas-graphs/static/css/main.145cb27b.css.map",
+    "main.0b9fdd51.js.map": "/gas-graphs/static/js/main.0b9fdd51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.145cb27b.css",
+    "static/js/main.0b9fdd51.js"
+  ]
+}
