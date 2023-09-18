@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/gas-graphs/static/css/main.145cb27b.css",
-    "main.js": "/gas-graphs/static/js/main.0b9fdd51.js",
+    "main.css": "/gas-graphs/static/css/main.a27525af.css",
+    "main.js": "/gas-graphs/static/js/main.874cdf6d.js",
     "static/media/map_image.png": "/gas-graphs/static/media/map_image.8eedbc0ff16ddc6771ad.png",
     "index.html": "/gas-graphs/index.html",
-    "main.145cb27b.css.map": "/gas-graphs/static/css/main.145cb27b.css.map",
-    "main.0b9fdd51.js.map": "/gas-graphs/static/js/main.0b9fdd51.js.map"
+    "main.a27525af.css.map": "/gas-graphs/static/css/main.a27525af.css.map",
+    "main.874cdf6d.js.map": "/gas-graphs/static/js/main.874cdf6d.js.map"
   },
   "entrypoints": [
-    "static/css/main.145cb27b.css",
-    "static/js/main.0b9fdd51.js"
+    "static/css/main.a27525af.css",
+    "static/js/main.874cdf6d.js"
   ]
 }
